@@ -69,6 +69,14 @@ a {
 }
 /*homepage blurb*/
 #blurb {
+  border: 3px solid black;
+  /*background-color: #00BFF1;*/
+  border-radius: 10px;
   display: block;
   text-align: center;
+  width: 65%;
+  margin-top: 3%;
+  margin-left: 17.5%;
+  margin-bottom: 3%;
+  font-size: 2em;
 }
