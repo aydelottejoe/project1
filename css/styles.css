@@ -11,7 +11,7 @@ font-family: optima;
 /*page background*/
 body {
   padding-top: 4%;
-  background-color: #F8F8FF;
+  background-color: #F5F5F5;
 }
 
 h1 {
@@ -69,14 +69,15 @@ a {
 }
 /*homepage blurb*/
 #blurb {
-  border: 3px solid black;
-  /*background-color: #00BFF1;*/
+  background-color: #FFFFFF;
   border-radius: 10px;
   display: block;
   text-align: center;
-  width: 65%;
+  width: 100%;
   margin-top: 3%;
-  margin-left: 17.5%;
-  margin-bottom: 3%;
+  padding-top: auto;
+  padding-left: 17.5%;
+  padding-right: 17.5%;
+  padding-bottom: auto;
   font-size: 2em;
 }
