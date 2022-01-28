@@ -1,15 +1,21 @@
 /*nav bar color*/
 .bg-dark {
-  background-color: white !important;
+  background-color: #C5EBC3 !important;
 }
 
 /*font families*/
-h1, h2, h3, p {
+h1, h2, h3, p, a {
 font-family: optima;
+}
+
+/*page background*/
+body {
+  background-color: #F8F8FF;
 }
 
 h1 {
   padding-left: 3%;
+  margin-top: 1%;
 }
 
 /*link color*/
@@ -28,10 +34,9 @@ a {
 
 .footer {
   display: flex;
-  color: white;
   border: none;
   width: 100%;
-  background: white;
+  background: #C5EBC3;
 }
 
 .github-link {
