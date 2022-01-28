@@ -1,6 +1,6 @@
 /*nav bar color*/
 .bg-light {
-  background-color: #C5EBC3 !important;
+  background-color: #00BFF1 !important;
 }
 
 /*font families*/
@@ -37,10 +37,38 @@ a {
   display: flex;
   border: none;
   width: 100%;
-  background: #C5EBC3;
+  background: #00BFF1;
 }
 
 .github-link {
   margin-left: 2%;
   color: black;
+}
+
+/*formatting for homepage + picture*/
+.frontpage {
+  position: relative;
+  padding-bottom: 0;
+}
+
+#frontpage-header {
+  font-size: 50px;
+  position: absolute;
+  padding-top: 3%;
+  margin-top: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  word-spacing: 55px;
+  width: 100%;
+}
+
+#homepage-pic {
+  display: block;
+  justify: center;
+  width: 100%;
+}
+/*homepage blurb*/
+#blurb {
+  display: block;
+  text-align: center;
 }
