@@ -47,6 +47,7 @@ a {
 
 /*formatting for homepage + picture*/
 .frontpage {
+  margin-top: 0;
   position: relative;
   padding-bottom: 0;
 }
@@ -54,7 +55,6 @@ a {
 #frontpage-header {
   font-size: 50px;
   position: absolute;
-  padding-top: 3%;
   margin-top: 2%;
   margin-left: auto;
   margin-right: auto;
