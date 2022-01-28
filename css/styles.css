@@ -81,3 +81,58 @@ a {
   padding-bottom: auto;
   font-size: 2em;
 }
+
+.snowboard-display {
+  columns: 2;
+  color: white;
+  background-color: #00BFF1;
+  text-align: center;
+}
+
+.snowboards {
+  display: inline;
+}
+
+#snowboards-pic {
+  width: 100%;
+}
+
+#snowboards-blurb {
+  width: 100%;
+}
+
+.bindings {
+  display: inline;
+}
+
+#bindings-pic {
+  width: 100%;
+}
+
+#bindings-blurb {
+  width: 100%;
+}
+
+.boots {
+  display: inline;
+}
+
+#boots-pic {
+  width: 100%;
+}
+
+#boots-blurb {
+  width: 100%;
+}
+
+.hoodies {
+  display: inline;
+}
+
+#hoodies-pic {
+  width: 100%;
+}
+
+#hoodies-blurb {
+  width: 100%;
+}
