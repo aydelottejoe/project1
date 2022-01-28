@@ -15,8 +15,8 @@ body {
 }
 
 h1 {
-  padding-left: 3%;
-  margin-top: 1%;
+  text-align: center;
+  padding-top: 2%;
 }
 
 /*link color*/
@@ -87,6 +87,7 @@ a {
   color: white;
   background-color: #00BFF1;
   text-align: center;
+  border: 10px solid #00BFF1;
 }
 
 .snowboards {
