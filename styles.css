@@ -1,5 +1,5 @@
 /*nav bar color*/
-.bg-dark {
+.bg-light {
   background-color: #C5EBC3 !important;
 }
 
@@ -10,6 +10,7 @@ font-family: optima;
 
 /*page background*/
 body {
+  padding-top: 4%;
   background-color: #F8F8FF;
 }
 
