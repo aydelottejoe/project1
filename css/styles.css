@@ -11,7 +11,7 @@ font-family: optima;
 /*page background*/
 body {
   padding-top: 4%;
-  background-color: #F5F5F5;
+  background-color: #F4EBBC;//F5F5F5;
 }
 
 h1 {
@@ -27,6 +27,7 @@ a {
 
 /*flexbox footer*/
 .footer-container{
+  margin-top: 50px;
   justify: center;
   display: flex;
   background-color: none;
@@ -63,23 +64,24 @@ a {
 }
 
 #homepage-pic {
+  margin-top: -10px;
   display: block;
-  justify: center;
   width: 100%;
 }
 /*homepage blurb*/
 #blurb {
   background-color: #FFFFFF;
-  border-radius: 10px;
+  border-radius: 30px;
   display: block;
   text-align: center;
-  width: 100%;
+  width: 80%;
   margin-top: 3%;
+  margin-left: 10%;
   padding-top: auto;
-  padding-left: 17.5%;
-  padding-right: 17.5%;
+  padding-left: 10%;
+  padding-right: 10%;
   padding-bottom: auto;
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 .snowboard-display {
